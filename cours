@@ -1,0 +1,8 @@
+heritage :
+- heritage
+- polymorphisme
+- encapsulation
+
+private -> uniquement accessible dans la classe
+public -> accessible partout
+protected -> accessible dans la classe et les classes filles
