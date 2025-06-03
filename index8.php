@@ -10,7 +10,7 @@ abstract class Animal {
     abstract public function FaireBruit();
 
     public function dormir() {
-        return $this->nom . " dort paisiblement.<br>";
+        return $this->nom . " Zzz, dort paisiblement.<br>";
     }
 }
 
